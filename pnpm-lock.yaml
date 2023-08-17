@@ -11,6 +11,9 @@ dependencies:
   express:
     specifier: ^4.17.1
     version: 4.17.1
+  mongodb:
+    specifier: ^5.7.0
+    version: 5.7.0
   mongoose:
     specifier: ^7.4.3
     version: 7.4.3
